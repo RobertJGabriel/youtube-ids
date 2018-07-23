@@ -23,7 +23,7 @@ MIT © [Robert James Gabriel](https://www.robertgabriel.ninja)
 
 [npm-image]: https://badge.fury.io/js/youtube-ids.svg
 [npm-url]: https://npmjs.org/package/youtube-ids
-[travis-image]: https://travis-ci.org/RobertJGabriel/youtube-ids.svg?branch=master
+[travis-image]: https://travis-ci.com/RobertJGabriel/youtube-ids.svg?branch=master
 [travis-url]: https://travis-ci.org/RobertJGabriel/youtube-ids
 [daviddm-image]: https://david-dm.org/RobertJGabriel/youtube-ids.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/RobertJGabriel/youtube-ids
